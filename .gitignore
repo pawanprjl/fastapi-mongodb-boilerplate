@@ -1,0 +1,10 @@
+.idea
+.vscode
+
+# python
+**__pycache__**
+
+# env files
+.env
+
+# misc
